@@ -1,0 +1,14 @@
+My ID:- 844524
+My team :- 844524 844525 844515 844567
+
+CodeSprint name :- Personal Fitness Trainer
+
+My work :- Saving data to localstorage
+           Reading data from localStorage
+
+1.Validate.js
+
+ I am strong in 
+HTML
+CSS
+JS
